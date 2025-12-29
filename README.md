@@ -1,7 +1,7 @@
 # Customer Support Page Design 💬
 
 ## 📌 Project Overview
-This project focuses on designing a clean and user-friendly **Customer Support Page** using **HTML, CSS, and basic JavaScript (UI only)**.  
+This project focuses on designing a clean and user-friendly **Customer Support Page** using **HTML and CSS**.  
 The page helps users quickly find help topics and support options through a structured layout and modern design.
 
 ## 🎯 Project Objective
