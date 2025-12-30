@@ -225,9 +225,9 @@ body {
 
 /* Mobile Devices */
 @media (max-width: 768px) {
-    .nav-menu {
+    /* .nav-menu {
         display: none;
-    }
+    } */
 
     .header-top {
         padding: 12px 20px;
@@ -320,3 +320,4 @@ body {
         padding: 22px 16px;
     }
 }
+
